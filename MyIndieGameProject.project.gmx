@@ -4,7 +4,12 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\PISTOL_SHOT_sound</sound>
+    <sound>sound\CRATE_PICKUP_sound</sound>
+    <sound>sound\LASER_SHOT_sound</sound>
+    <sound>sound\SHOTGUN_SHOT_sound</sound>
+  </sounds>
   <sprites name="sprites">
     <sprites name="PLAYER">
       <sprites name="MOVEMENT">
