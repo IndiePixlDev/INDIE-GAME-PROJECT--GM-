@@ -9,6 +9,10 @@
     <sound>sound\CRATE_PICKUP_sound</sound>
     <sound>sound\LASER_SHOT_sound</sound>
     <sound>sound\SHOTGUN_SHOT_sound</sound>
+    <sound>sound\HIT_SOUND_sound</sound>
+    <sound>sound\BOW_SHOT_sound</sound>
+    <sound>sound\JUMP_SOUND_sound</sound>
+    <sound>sound\WALK_SOUND_sound</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="PLAYER">
